@@ -1,0 +1,114 @@
+Contact
+ethancxollins@ymail.com
+
+Ethan Collins
+
+www.linkedin.com/in/ethan-collins
+(LinkedIn)
+
+Software Developer @ Denver Broncos | Innovating with AI, Data, &
+Automation in Sports Technology
+Englewood, Colorado, United States
+
+Top Skills
+
+Summary
+
+Ollama
+n8n
+Large Language Models (LLM)
+
+Certifications
+Laravel 5 Essential Training
+Angular - The Complete Guide
+NgRx (with NgRx Data) - The
+Complete Guide (Angular 18)
+
+Software Developer | Denver Broncos
+CSU Channel Islands 20' | B.S. Computer Science
+
+Experience
+Denver Broncos Football Club
+Software Developer
+
+September 2021 - Present (4 years 3 months)
+Englewood, Colorado, United States
+Developed MEAN stack applications delivering real-time data access, player
+performance metrics, and strategic insights to football operations, directly
+enhancing game preparation and team performance
+Engineered custom AI agents using Ollama and n8n to automate data
+workflows, generate player draft summaries, and implement RAG-based
+content extraction capabilities
+Built and maintained robust back-end infrastructure using C# and Entity
+Framework to support critical football operations applications
+Managed SQL Server databases, querying large-scale football datasets to
+extract actionable insights and optimize data storage and retrieval for decisionmaking processes
+Partnered with scouts and coaches to create statistical reports and custom
+analytical tools, transforming raw data into strategic recommendations
+
+Cytracom
+Full Stack Developer
+
+September 2020 - August 2021 (1 year)
+Allen, Texas, United States
+
+Page 1 of 3
+
+Designed and developed a custom Angular application that automated account
+provisioning workflows, enabling partners to rapidly deploy VOIP services and
+efficiently manage organizational user mapping
+Built RESTful APIs using Node.js and MongoDB to support comprehensive
+CRUD operations and optimize data management across the platform
+Implemented secure AWS-based document handling for sensitive uploads
+including service agreements and contract signatures, ensuring regulatory
+compliance and data protection
+Collaborated cross-functionally with product and marketing teams to deliver
+solutions aligned with PRD specifications, driving product success and market
+fit
+
+Los Angeles Rams
+Software Developer
+
+December 2018 - June 2020 (1 year 7 months)
+Thousand Oaks, California
+Developed and maintained a custom intranet platform serving scouts,
+coaches, performance staff, and management, enabling streamlined data
+entry, advanced analytics, automated reporting, and comprehensive statistical
+access
+Collaborated directly with scouts and coaches to optimize scouting workflows
+and improve operational efficiency
+Built and maintained API subroutines using C#/ASP.NET and Python to
+integrate multiple data sources and enhance platform functionality
+Designed Microsoft SQL queries to process large-scale datasets, creating
+visualizations and categorizations of football scenarios to support strategic
+game planning
+
+OXNARD UNION HIGH SCHOOL DISTRICT
+Information Technology Intern
+January 2017 - June 2017 (6 months)
+Oxnard, California
+
+Page 2 of 3
+
+Provided comprehensive Help Desk support including desktop management,
+account configuration, troubleshooting, and network administration to ensure
+seamless IT operations across the district
+Managed user accounts and device profiles through SCCM and Active
+Directory, maintaining security protocols and access controls for educational
+environments
+Deployed and maintained software applications across an 8-school network,
+ensuring consistent availability and efficient resource distribution
+Supported IT operations as part of a 7-member team serving over 5,000 users
+including students, faculty, and administrative staff
+
+Target
+Electronics Sales Floor
+
+July 2016 - January 2017 (7 months)
+Camarillo, Ca
+
+Education
+California State University Channel Islands
+Bachelor of Science, Computer Science · (2015 - 2020)
+
+Page 3 of 3
